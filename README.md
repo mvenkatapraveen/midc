@@ -5,7 +5,7 @@ MIDC Txn Mapping in AppDynamics
 This application will generate an excel for Txn configured for MIDC.
 
 ## Prerequisites
-Node, Angular, Typescript
+Node, Javascript
 
 Need to provide two input files:
 midc.json(for specific application)

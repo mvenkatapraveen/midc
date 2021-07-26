@@ -1,0 +1,23 @@
+{
+  "name": "midc",
+  "version": "1.0.0",
+  "description": "Data Collectors Extractor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Data",
+    "Collectors",
+    "MIDC"
+  ],
+  "author": "Venkata Praveen Madireddy",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "msexcel-builder": "0.0.2"
+  }
+}

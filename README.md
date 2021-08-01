@@ -30,4 +30,4 @@ Load the following in the browser
 ```sh
 http://localhost:3000/midc/<appName>
 ```
-This will generate an xls file with <appName>+MIDC.xls and Txn mappings in output folder.
+This will generate an xls file with ```sh<appName>+MIDC.xls``` and Txn mappings in output folder.
